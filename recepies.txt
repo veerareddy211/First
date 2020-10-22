@@ -5,7 +5,8 @@ Biryani
 Kheer
 Pasta
 Chicken 
-
+Beans
+Pizza
 
 
 Thanks
